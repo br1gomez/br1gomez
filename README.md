@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm new at GitHub but trying to improve :D
+
 <!--
 **br1gomez/br1gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
