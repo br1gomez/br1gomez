@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Bruno! 👋
 
 I'm new at GitHub but trying to improve :D
 
