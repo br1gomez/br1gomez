@@ -31,4 +31,10 @@ I'm new at GitHub but trying to improve :D.
 
 # 🐻 Personal Site
 
-[<img src="banner1.png">](https://br1gomez.github.io/Portfolio/)
+
+<div align="center">
+  <a href="https://br1gomez.github.io/Portfolio/">
+    <img src="banner1.png" width="700"/>
+  </a>
+</div>
+
