@@ -10,6 +10,10 @@ I'm new at GitHub but trying to improve :D.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogomez1)
 [	![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BrunoGuzm1)
 
+<div id = "screamCat" align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhpbnhxcnUxN3VzeXNvMmt2MW80NDNiODEwM2RjZXRwYTN0bHJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="1000">
+</div>
+
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,4 +24,8 @@ I'm new at GitHub but trying to improve :D.
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<div id="cat1" align="center">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWMxdGtobnlzNWhyNDd1dGg2MnJkNm1maDl1OXRzMDc5OTRnOXlrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dl2seYrwPvfjO/giphy.gif" width="200">
+</div>
 
