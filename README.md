@@ -11,7 +11,7 @@ I'm new at GitHub but trying to improve :D.
 [	![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BrunoGuzm1)
 
 <div id = "screamCat" align="center">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhpbnhxcnUxN3VzeXNvMmt2MW80NDNiODEwM2RjZXRwYTN0bHJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="200">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhpbnhxcnUxN3VzeXNvMmt2MW80NDNiODEwM2RjZXRwYTN0bHJidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XUA7ZZcBl0McuVqwd8/giphy.gif" width="300">
 </div>
 
 # 💻 Tech Stack
