@@ -2,7 +2,7 @@
 
 I'm new at GitHub but trying to improve :D.  
 
-![br1's GitHub stats](https://github-readme-stats.vercel.app/api?username=br1gomez&theme=panda&show_icons=true)
+![br1's GitHub stats](https://github-readme-stats.vercel.app/api?username=br1gomez&theme=cobalt&show_icons=true)
 
 # 💻 Only At
 <!--Social Media-->
